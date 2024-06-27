@@ -6,7 +6,7 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 **Total Articles:** 3
-- [[Data Job]]: 1
+- [Data Job](##Data-Job): 1
 - **Data Cleaning:** 2
 
 ## Data Job
