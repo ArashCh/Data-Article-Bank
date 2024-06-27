@@ -5,6 +5,10 @@
 - [Telegram channel](https://t.me/data_solution_ach)
 - [X/Twitter](https://x.com/ArashChitgar)
 
+**Total Articles:** 3
+- **Data Jobs:** 1
+- **Data Cleaning:** 2
+
 ## Data Job
   1. [5 Things I Wish I Knew Before My First Job as a Data Analyst](https://medium.com/learning-data/5-things-i-wish-i-knew-before-my-first-job-as-a-data-analyst-3bdef1f2c6f)
 
