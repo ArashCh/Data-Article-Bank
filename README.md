@@ -1,7 +1,7 @@
 # Data-Article-Bank
-Here I share every data article I read.
+**Here I share every data article I read.**
 
-You can also follow my daily reads on my:
+**You can also follow my daily reads on my:**
 - [Telegram channel](https://t.me/data_solution_ach)
 - [X/Twitter](https://x.com/ArashChitgar)
 
