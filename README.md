@@ -6,9 +6,9 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 3
+**Total Articles:** 4
 - **[Data Job Articles](#Data-Job)**: 1
-- **[Data Cleaning Articles](#Data-Cleaning):** 2
+- **[Data Cleaning Articles](#Data-Cleaning):** 3
 
 ---
 ---
@@ -21,4 +21,5 @@
 ## Data Cleaning
   1. [9 Data Quality Checks You Can Do with Pandas](https://www.telm.ai/blog/9-data-quality-checks-you-can-do-with-pandas/)
   2. [Data Cleaning: Definition, Techniques & Best Practices for 2024](https://technologyadvice.com/blog/information-technology/data-cleaning/)
+  3. [10 Data Cleaning Skills you need to know in 2024](https://www.dataquest.io/blog/10-data-cleaning-skills/)
 
