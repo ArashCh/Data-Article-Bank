@@ -6,9 +6,9 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 7
+**Total Articles:** 8
 - **[Data Job Articles](#Data-Job)**: 1
-- **[Data Cleaning Articles](#Data-Cleaning):** 6
+- **[Data Cleaning Articles](#Data-Cleaning):** 7
 
 ---
 ---
@@ -25,4 +25,5 @@
   4. [7 Essential Data Cleaning Best Practices](https://www.montecarlodata.com/blog-data-cleaning-best-practices/)
   5. [7 Steps to Mastering Data Cleaning and Preprocessing Techniques](https://www.kdnuggets.com/2023/08/7-steps-mastering-data-cleaning-preprocessing-techniques.html)
   6. [7 Steps to Mastering Data Cleaning with Python and Pandas](https://www.kdnuggets.com/7-steps-to-mastering-data-cleaning-with-python-and-pandas)
+  7. [5 Data Cleaning Techniques for Better ML Models](https://dataheroes.ai/blog/data-cleaning-techniques-for-better-ml-models/)
 
