@@ -6,9 +6,9 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 9
+**Total Articles:** 10
 - **[Data Job Articles](#Data-Job)**: 1
-- **[Data Cleaning Articles](#Data-Cleaning):** 8
+- **[Data Cleaning Articles](#Data-Cleaning):** 9
 
 ---
 ---
@@ -27,4 +27,5 @@
   6. [7 Steps to Mastering Data Cleaning with Python and Pandas](https://www.kdnuggets.com/7-steps-to-mastering-data-cleaning-with-python-and-pandas)
   7. [5 Data Cleaning Techniques for Better ML Models](https://dataheroes.ai/blog/data-cleaning-techniques-for-better-ml-models/)
   8. [Effective Strategies for Handling Missing Values in Data Analysis](https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/)
+  9. [End-to-End Introduction to Handling Missing Values](https://www.analyticsvidhya.com/blog/2021/10/end-to-end-introduction-to-handling-missing-values/)
 
