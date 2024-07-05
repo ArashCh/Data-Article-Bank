@@ -6,9 +6,10 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 10
+**Total Articles:** 11
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Data Cleaning Articles](#Data-Cleaning):** 9
+- **[Statistics](#Statistics):** 1
 
 ---
 ---
@@ -28,4 +29,9 @@
   7. [5 Data Cleaning Techniques for Better ML Models](https://dataheroes.ai/blog/data-cleaning-techniques-for-better-ml-models/)
   8. [Effective Strategies for Handling Missing Values in Data Analysis](https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/)
   9. [End-to-End Introduction to Handling Missing Values](https://www.analyticsvidhya.com/blog/2021/10/end-to-end-introduction-to-handling-missing-values/)
+
+---
+
+## Statistics
+  1. [Using statistics: How to understand population distributions?](https://www.analyticsvidhya.com/blog/2014/07/statistics/?utm_source=reading_list&utm_medium=https://www.analyticsvidhya.com/blog/2014/07/statistics/)
 
