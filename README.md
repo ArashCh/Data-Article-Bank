@@ -6,9 +6,11 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 11
+**Total Articles:** 12
 - **[Data Job Articles](#Data-Job)**: 1
-- **[Data Cleaning Articles](#Data-Cleaning):** 9
+- **[Preprocessing Articles](#Preprocessing):** 10
+  - General Articles
+  - Data Cleaning Articles
 - **[Statistics](#Statistics):** 1
 
 ---
@@ -19,7 +21,10 @@
 
 ---
 
-## Data Cleaning
+## Preprocessing
+  ### General
+  1. [Data Preprocessing in Data Mining: A Hands On Guide](https://www.analyticsvidhya.com/blog/2021/08/data-preprocessing-in-data-mining-a-hands-on-guide/)
+  ### Data Cleaning
   1. [9 Data Quality Checks You Can Do with Pandas](https://www.telm.ai/blog/9-data-quality-checks-you-can-do-with-pandas/)
   2. [Data Cleaning: Definition, Techniques & Best Practices for 2024](https://technologyadvice.com/blog/information-technology/data-cleaning/)
   3. [10 Data Cleaning Skills you need to know in 2024](https://www.dataquest.io/blog/10-data-cleaning-skills/)
