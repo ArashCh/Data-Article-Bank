@@ -6,10 +6,11 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 12
+**Total Articles:** 13
 - **[Data Job Articles](#Data-Job)**: 1
-- **[Preprocessing Articles](#Preprocessing):** 10
+- **[Preprocessing Articles](#Preprocessing):** 11
   - General Articles
+  - EDA (Exploratory Data Analysis)
   - Data Cleaning Articles
 - **[Statistics](#Statistics):** 1
 
@@ -24,6 +25,8 @@
 ## Preprocessing
   ### General
   1. [Data Preprocessing in Data Mining: A Hands On Guide](https://www.analyticsvidhya.com/blog/2021/08/data-preprocessing-in-data-mining-a-hands-on-guide/)
+  ### EDA (Exploratory Data Analysis)
+  1. [Introduction to Exploratory Data Analysis (EDA)](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-exploratory-data-analysis-eda/)
   ### Data Cleaning
   1. [9 Data Quality Checks You Can Do with Pandas](https://www.telm.ai/blog/9-data-quality-checks-you-can-do-with-pandas/)
   2. [Data Cleaning: Definition, Techniques & Best Practices for 2024](https://technologyadvice.com/blog/information-technology/data-cleaning/)
