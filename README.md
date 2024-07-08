@@ -6,12 +6,13 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 13
+**Total Articles:** 14
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Preprocessing Articles](#Preprocessing):** 11
   - General Articles
   - EDA (Exploratory Data Analysis)
   - Data Cleaning Articles
+- **[Data Modeling](#Data-Modeling):** 1
 - **[Statistics](#Statistics):** 1
 
 ---
@@ -37,6 +38,11 @@
   7. [5 Data Cleaning Techniques for Better ML Models](https://dataheroes.ai/blog/data-cleaning-techniques-for-better-ml-models/)
   8. [Effective Strategies for Handling Missing Values in Data Analysis](https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/)
   9. [End-to-End Introduction to Handling Missing Values](https://www.analyticsvidhya.com/blog/2021/10/end-to-end-introduction-to-handling-missing-values/)
+
+---
+
+## Data Modeling
+  1. [Data Modeling in Power BI: Overview of the Key Approaches](https://www.infopulse.com/blog/data-modeling-power-bi)
 
 ---
 
