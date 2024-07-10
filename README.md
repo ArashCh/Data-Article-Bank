@@ -6,13 +6,13 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 15
+**Total Articles:** 16
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Preprocessing Articles](#Preprocessing):** 11
   - General Articles
   - EDA (Exploratory Data Analysis)
   - Data Cleaning Articles
-- **[Data Modeling](#Data-Modeling):** 2
+- **[Data Modeling](#Data-Modeling):** 3
 - **[Statistics](#Statistics):** 1
 
 ---
@@ -44,6 +44,7 @@
 ## Data Modeling
   1. [Data Modeling in Power BI: Overview of the Key Approaches](https://www.infopulse.com/blog/data-modeling-power-bi)
   2. [Data Modeling Fundamentals in Power BI](https://www.phdata.io/blog/data-modeling-fundamentals-in-power-bi/)
+  3. [Power BI Data Modelling Best Practices](https://www.element61.be/en/resource/power-bi-data-modelling-best-practices)
 
 ---
 
