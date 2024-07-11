@@ -6,12 +6,13 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 16
+**Total Articles:** 17
 - **[Data Job Articles](#Data-Job)**: 1
-- **[Preprocessing Articles](#Preprocessing):** 11
+- **[Preprocessing Articles](#Preprocessing):** 12
   - General Articles
-  - EDA (Exploratory Data Analysis)
+  - EDA (Exploratory Data Analysis) Articles
   - Data Cleaning Articles
+  - ETL (Extract-Transform-Load) Articles
 - **[Data Modeling](#Data-Modeling):** 3
 - **[Statistics](#Statistics):** 1
 
@@ -38,6 +39,8 @@
   7. [5 Data Cleaning Techniques for Better ML Models](https://dataheroes.ai/blog/data-cleaning-techniques-for-better-ml-models/)
   8. [Effective Strategies for Handling Missing Values in Data Analysis](https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/)
   9. [End-to-End Introduction to Handling Missing Values](https://www.analyticsvidhya.com/blog/2021/10/end-to-end-introduction-to-handling-missing-values/)
+  ### ETL (Extract-Transform-Load)
+  1. [5 ETL Best Practices You Shouldn’t Ignore](https://www.montecarlodata.com/blog-5-etl-best-practices/)
 
 ---
 
