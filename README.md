@@ -6,7 +6,7 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 17
+**Total Articles:** 18
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Preprocessing Articles](#Preprocessing):** 12
   - General Articles
@@ -15,6 +15,7 @@
   - ETL (Extract-Transform-Load) Articles
 - **[Data Modeling](#Data-Modeling):** 3
 - **[Statistics](#Statistics):** 1
+- **[Pivot Table](#Pivot-Table):** 1
 
 ---
 ---
@@ -54,3 +55,7 @@
 ## Statistics
   1. [Using statistics: How to understand population distributions?](https://www.analyticsvidhya.com/blog/2014/07/statistics/?utm_source=reading_list&utm_medium=https://www.analyticsvidhya.com/blog/2014/07/statistics/)
 
+---
+
+## Pivot Table
+  1. [6 Advanced Pivot Table Techniques You Should Know in 2024](https://www.goskills.com/Excel/Resources/Advanced-pivot-table-techniques)
