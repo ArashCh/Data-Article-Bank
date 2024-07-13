@@ -6,7 +6,7 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 18
+**Total Articles:** 19
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Preprocessing Articles](#Preprocessing):** 12
   - General Articles
@@ -16,6 +16,7 @@
 - **[Data Modeling](#Data-Modeling):** 3
 - **[Statistics](#Statistics):** 1
 - **[Pivot Table](#Pivot-Table):** 1
+- **[Data Quality](#Data-Quality):** 1
 
 ---
 ---
@@ -59,3 +60,8 @@
 
 ## Pivot Table
   1. [6 Advanced Pivot Table Techniques You Should Know in 2024](https://www.goskills.com/Excel/Resources/Advanced-pivot-table-techniques)
+
+---
+
+## Data Quality
+  1. [12 Data Quality Metrics That ACTUALLY Matter](https://www.montecarlodata.com/blog-data-quality-metrics/)
