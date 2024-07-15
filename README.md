@@ -6,7 +6,7 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 20
+**Total Articles:** 21
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Preprocessing Articles](#Preprocessing):** 12
   - General Articles
@@ -15,7 +15,7 @@
   - ETL (Extract-Transform-Load) Articles
 - **[Data Modeling](#Data-Modeling):** 4
 - **[Statistics](#Statistics):** 1
-- **[Pivot Table](#Pivot-Table):** 1
+- **[Tables](#Tables):** 2
 - **[Data Quality](#Data-Quality):** 1
 
 ---
@@ -59,8 +59,9 @@
 
 ---
 
-## Pivot Table
+## Tables
   1. [6 Advanced Pivot Table Techniques You Should Know in 2024](https://www.goskills.com/Excel/Resources/Advanced-pivot-table-techniques)
+  2. [Best Practices for Building Tables (Simple, Pivot, and Otherwise)](https://www.evisions.com/resources/blog/best-practices-for-building-tables-simple-pivot-and-otherwise/)
 
 ---
 
