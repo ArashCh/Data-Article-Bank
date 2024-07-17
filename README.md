@@ -6,7 +6,7 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 22
+**Total Articles:** 23
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Preprocessing Articles](#Preprocessing):** 13
   - [General Articles](#General-Articles): 1
@@ -17,6 +17,7 @@
 - **[Statistics](#Statistics):** 1
 - **[Tables](#Tables):** 2
 - **[Data Quality](#Data-Quality):** 1
+- **[DAX (Data Analysis Expressions)](#DAX-(Data-Analysis-Expressions)):** 1
 
 ---
 ---
@@ -68,3 +69,8 @@
 
 ## Data Quality
   1. [12 Data Quality Metrics That ACTUALLY Matter](https://www.montecarlodata.com/blog-data-quality-metrics/)
+
+---
+
+## DAX (Data Analysis Expression)
+  1. [Calculated Columns and Measures in DAX](https://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/)
