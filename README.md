@@ -6,7 +6,7 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 23
+**Total Articles:** 24
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Preprocessing Articles](#Preprocessing):** 13
   - [General Articles](#General-Articles): 1
@@ -17,7 +17,7 @@
 - **[Statistics](#Statistics):** 1
 - **[Tables](#Tables):** 2
 - **[Data Quality](#Data-Quality):** 1
-- **[DAX (Data Analysis Expressions)](#DAX-(Data-Analysis-Expressions)):** 1
+- **[DAX (Data Analysis Expressions)](#DAX-(Data-Analysis-Expressions)):** 2
 
 ---
 ---
@@ -74,3 +74,4 @@
 
 ## DAX (Data Analysis Expression)
   1. [Calculated Columns and Measures in DAX](https://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/)
+  2. [When are variables evaluated in DAX?](https://www.sqlbi.com/articles/when-are-variables-evaluated-in-dax/)
