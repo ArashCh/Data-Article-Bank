@@ -6,13 +6,13 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 24
+**Total Articles:** 25
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Preprocessing Articles](#Preprocessing):** 13
   - [General Articles](#General-Articles): 1
   - [EDA (Exploratory Data Analysis) Articles](#EDA-(Exploratory-Data-Analysis)-Articles): 1
   - [Data Cleaning Articles](#Data-Cleaning-Articles): 9
-  - [ETL (Extract-Transform-Load) Articles](#ETL-(Extract-Transform-Load)-Articles): 2
+  - [ETL (Extract-Transform-Load) Articles](#ETL-(Extract-Transform-Load)-Articles): 3
 - **[Data Modeling](#Data-Modeling):** 4
 - **[Statistics](#Statistics):** 1
 - **[Tables](#Tables):** 2
@@ -45,6 +45,7 @@
   ### ETL (Extract-Transform-Load)
   1. [5 ETL Best Practices You Shouldn’t Ignore](https://www.montecarlodata.com/blog-5-etl-best-practices/)
   2. [Data Transformation in 2024: 5 Challenges & Best Practices](https://research.aimultiple.com/data-transformation/)
+  3. [What is Data Transformation? Importance and Best Practices](https://edgedelta.com/company/blog/what-is-data-transformation)
 
 ---
 
