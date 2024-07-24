@@ -6,7 +6,7 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 29
+**Total Articles:** 30
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Preprocessing Articles](#Preprocessing):** 13
   - [General Articles](#General-Articles): 1
@@ -17,7 +17,7 @@
 - **[Statistics](#Statistics):** 1
 - **[Tables](#Tables):** 2
 - **[Data Quality](#Data-Quality):** 1
-- **[DAX (Data Analysis Expressions)](#DAX-(Data-Analysis-Expressions)):** 5
+- **[DAX (Data Analysis Expressions)](#DAX-(Data-Analysis-Expressions)):** 6
 - **[SSIS (SQL Server Integration Service)](#SSIS):** 1
 
 ---
@@ -80,6 +80,7 @@
   3. [Row Context and Filter Context in DAX](https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax/)
   4. [DAX Time Intelligence Functions (DATEADD, DATESYTD, PREVIOUSMONTH …)](https://xperiun.com/blog/dax-time-intelligence-functions-dateadd-datesytd-previousmonth/)
   5. [Time Intelligence in Power BI Desktop](https://www.sqlbi.com/articles/time-intelligence-in-power-bi-desktop/)
+  6. [Measures vs Calculated Columns in DAX and Power BI](https://endjin.com/blog/2022/04/measures-vs-calculated-columns-in-dax)
 
 ---
 
