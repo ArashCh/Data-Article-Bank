@@ -6,10 +6,10 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 30
+**Total Articles:** 31
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Preprocessing Articles](#Preprocessing):** 13
-  - [General Articles](#General-Articles): 1
+  - [General Articles](#General-Articles): 2
   - [EDA (Exploratory Data Analysis) Articles](#EDA-(Exploratory-Data-Analysis)-Articles): 1
   - [Data Cleaning Articles](#Data-Cleaning-Articles): 9
   - [ETL (Extract-Transform-Load) Articles](#ETL-(Extract-Transform-Load)-Articles): 3
@@ -31,6 +31,7 @@
 ## Preprocessing
   ### General
   1. [Data Preprocessing in Data Mining: A Hands On Guide](https://www.analyticsvidhya.com/blog/2021/08/data-preprocessing-in-data-mining-a-hands-on-guide/)
+  2. [Pivot and Unpivot Columns in Power BI](https://www.acuitytraining.co.uk/news-tips/pivot-and-unpivot-columns-in-power-bi/)
   ### EDA (Exploratory Data Analysis)
   1. [Introduction to Exploratory Data Analysis (EDA)](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-exploratory-data-analysis-eda/)
   ### Data Cleaning
