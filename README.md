@@ -6,7 +6,7 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 31
+**Total Articles:** 33
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Preprocessing Articles](#Preprocessing):** 13
   - [General Articles](#General-Articles): 2
@@ -19,6 +19,7 @@
 - **[Data Quality](#Data-Quality):** 1
 - **[DAX (Data Analysis Expressions)](#DAX-(Data-Analysis-Expressions)):** 6
 - **[SSIS (SQL Server Integration Service)](#SSIS):** 1
+- **[Visualization](#Visualization):** 2
 
 ---
 ---
@@ -87,3 +88,9 @@
 
 ## SSIS
   1. [WHAT IS SSIS AND SHOULD YOU USE IT?](https://www.theseattledataguy.com/what-is-ssis-and-should-you-use-it/#page-content)
+
+---
+
+## Visualization
+  1. [What is data visualization?](https://www.techtarget.com/searchbusinessanalytics/definition/data-visualization)
+  2. [8 steps to improve data visualization literacy](https://www.techtarget.com/searchbusinessanalytics/tip/steps-to-improve-data-visualization-literacy)
