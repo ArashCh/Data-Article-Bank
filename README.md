@@ -6,7 +6,7 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 34
+**Total Articles:** 35
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Preprocessing Articles](#Preprocessing):** 13
   - [General Articles](#General-Articles): 2
@@ -19,7 +19,7 @@
 - **[Data Quality](#Data-Quality):** 1
 - **[DAX (Data Analysis Expressions)](#DAX-(Data-Analysis-Expressions)):** 6
 - **[SSIS (SQL Server Integration Service)](#SSIS):** 1
-- **[Visualization](#Visualization):** 2
+- **[Visualization](#Visualization):** 3
 
 ---
 ---
@@ -95,3 +95,4 @@
 ## Visualization
   1. [What is data visualization?](https://www.techtarget.com/searchbusinessanalytics/definition/data-visualization)
   2. [8 steps to improve data visualization literacy](https://www.techtarget.com/searchbusinessanalytics/tip/steps-to-improve-data-visualization-literacy)
+  3. [Power BI Vs Tableau: A Detailed Analysis](https://www.acuitytraining.co.uk/news-tips/power-bi-vs-tableau/)
