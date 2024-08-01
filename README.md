@@ -6,7 +6,7 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 37
+**Total Articles:** 38
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Preprocessing Articles](#Preprocessing):** 13
   - [General Articles](#General-Articles): 2
@@ -19,7 +19,7 @@
 - **[Data Quality](#Data-Quality):** 1
 - **[DAX (Data Analysis Expressions)](#DAX-(Data-Analysis-Expressions)):** 6
 - **[SSIS (SQL Server Integration Service)](#SSIS):** 1
-- **[Visualization](#Visualization):** 4
+- **[Visualization](#Visualization):** 5
 - **[Workflow](#Workflow):** 1
 
 ---
@@ -98,6 +98,7 @@
   2. [8 steps to improve data visualization literacy](https://www.techtarget.com/searchbusinessanalytics/tip/steps-to-improve-data-visualization-literacy)
   3. [Power BI Vs Tableau: A Detailed Analysis](https://www.acuitytraining.co.uk/news-tips/power-bi-vs-tableau/)
   4. [8 Essential Dashboard Design Principles for Effective Data Visualization](https://medium.com/@mokkup/8-essential-dashboard-design-principles-for-effective-data-visualization-40653c5fd135)
+  5. [Differences between histograms and bar charts](https://www.storytellingwithdata.com/blog/2021/1/28/histograms-and-bar-charts)
 
 ---
 
