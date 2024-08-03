@@ -6,14 +6,14 @@
 - [X/Twitter](https://x.com/ArashChitgar)
 
 
-**Total Articles:** 38
+**Total Articles:** 39
 - **[Data Job Articles](#Data-Job)**: 1
 - **[Preprocessing Articles](#Preprocessing):** 13
   - [General Articles](#General-Articles): 2
   - [EDA (Exploratory Data Analysis) Articles](#EDA-(Exploratory-Data-Analysis)-Articles): 1
   - [Data Cleaning Articles](#Data-Cleaning-Articles): 9
   - [ETL (Extract-Transform-Load) Articles](#ETL-(Extract-Transform-Load)-Articles): 3
-- **[Data Modeling](#Data-Modeling):** 5
+- **[Data Modeling](#Data-Modeling):** 6
 - **[Statistics](#Statistics):** 1
 - **[Tables](#Tables):** 2
 - **[Data Quality](#Data-Quality):** 1
@@ -59,6 +59,7 @@
   3. [Data Modeling Fundamentals in Power BI](https://www.phdata.io/blog/data-modeling-fundamentals-in-power-bi/)
   4. [Power BI Data Modelling Best Practices](https://www.element61.be/en/resource/power-bi-data-modelling-best-practices)
   5. [HOW TO DATA MODEL – REAL LIFE EXAMPLES OF HOW COMPANIES MODEL THEIR DATA](https://www.theseattledataguy.com/how-to-data-model-real-life-examples-of-how-companies-model-their-data/#page-content)
+  6. [7 Data Modeling Best Practices](https://thenewstack.io/7-data-modeling-best-practices/?utm_referrer=https%3A%2F%2Fwww.google.com%2F)
 
 ---
 
